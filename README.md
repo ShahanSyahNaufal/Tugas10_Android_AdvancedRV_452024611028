@@ -8,9 +8,9 @@
 ---
 
 ## 📸 Dokumentasi Aplikasi (Screenshots / GIF)
-<img alt="Tampilan Grid Aplikasi" src="/home/yi-sun-sin/Documents/AdvancedRecyclerView/andr.png"/>
+<img alt="Tampilan Grid Aplikasi" src="andr.png"/>
 
-<img alt="Tampilan Grid Aplikasi" src="/home/yi-sun-sin/Documents/AdvancedRecyclerView/ss.png"/>
+<img alt="Tampilan Grid Aplikasi" src="ss.png"/>
 
 ---
 
